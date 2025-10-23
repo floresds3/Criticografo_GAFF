@@ -7,6 +7,18 @@
       "RelativeMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|solutionrelative:criticografo_gaff\\view\\criticografo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|c:\\appmoviless\\criticografo_gaff\\criticografo_gaff\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|solutionrelative:criticografo_gaff\\model\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|c:\\appmoviless\\criticografo_gaff\\criticografo_gaff\\view\\criticografo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|solutionrelative:criticografo_gaff\\view\\criticografo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|c:\\appmoviless\\criticografo_gaff\\criticografo_gaff\\viewmodel\\criticografoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|solutionrelative:criticografo_gaff\\viewmodel\\criticografoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|c:\\appmoviless\\criticografo_gaff\\criticografo_gaff\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A4AFE5B-1471-4861-B0B9-93CA71AAAD01}|Criticografo_GAFF\\Criticografo_GAFF.csproj|solutionrelative:criticografo_gaff\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,7 +42,43 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Criticografo.xaml.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\View\\Criticografo.xaml.cs",
+              "RelativeDocumentMoniker": "Criticografo_GAFF\\View\\Criticografo.xaml.cs",
+              "ToolTip": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\View\\Criticografo.xaml.cs",
+              "RelativeToolTip": "Criticografo_GAFF\\View\\Criticografo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T20:13:31.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CriticografoViewModel.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\ViewModel\\CriticografoViewModel.cs",
+              "RelativeDocumentMoniker": "Criticografo_GAFF\\ViewModel\\CriticografoViewModel.cs",
+              "ToolTip": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\ViewModel\\CriticografoViewModel.cs",
+              "RelativeToolTip": "Criticografo_GAFF\\ViewModel\\CriticografoViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T19:35:12.262Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\Model\\Person.cs",
+              "RelativeDocumentMoniker": "Criticografo_GAFF\\Model\\Person.cs",
+              "ToolTip": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\Model\\Person.cs",
+              "RelativeToolTip": "Criticografo_GAFF\\Model\\Person.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T18:36:05.962Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "App.xaml.cs",
               "DocumentMoniker": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\App.xaml.cs",
               "RelativeDocumentMoniker": "Criticografo_GAFF\\App.xaml.cs",
@@ -38,8 +86,7 @@
               "RelativeToolTip": "Criticografo_GAFF\\App.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-22T00:45:08.744Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-22T00:45:08.744Z"
             },
             {
               "$type": "Document",
@@ -49,7 +96,7 @@
               "RelativeDocumentMoniker": "Criticografo_GAFF\\View\\Criticografo.xaml",
               "ToolTip": "C:\\AppMoviless\\Criticografo_GAFF\\Criticografo_GAFF\\View\\Criticografo.xaml",
               "RelativeToolTip": "Criticografo_GAFF\\View\\Criticografo.xaml",
-              "ViewState": "AgIAADgAAAAAAAAAAAAcwDsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-10-22T00:44:06.182Z",
               "EditorCaption": ""

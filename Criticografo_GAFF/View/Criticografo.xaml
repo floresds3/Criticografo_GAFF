@@ -13,15 +13,18 @@
         <Label Text="Nombre:"
                Margin="0, 30, 0, 0"/>
         
-        <Entry x:Name="Nombre" Placeholder="Ingrese el nombre de la persona a criticar"/>
+        <Entry x:Name="Nombre" Placeholder="Ingrese el nombre de la persona a criticar"
+               Text="{Binding persona.Name}"/>
 
         <Label Text="Genero:" 
                Margin="0, 10, 0, 0"/>
 
 
         <HorizontalStackLayout Spacing="20" Padding="0, 0, 0, 50">
-            <RadioButton x:Name="btnHombre" Content="Hombre"/>
-            <RadioButton x:Name="btnMujer" Content="Mujer"/>
+            <RadioButton x:Name="btnHombre" Content="Hombre"
+                         IsChecked="{Binding persona.Genero, Converter={StaticResource StringToBoolConverter}, ConverterParameter='Hombre'}"/>
+            <RadioButton x:Name="btnMujer" Content="Mujer"
+                         IsChecked="{Binding persona.Genero, Converter={StaticResource StringToBoolConverter}, ConverterParameter='Mujer'}"/>
         </HorizontalStackLayout>
 
         <Grid  Padding="50, 0, 20, 30"> 
@@ -34,7 +37,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkAlto"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsTall}"/>
 
                     <Label Text="Alto"
                            VerticalOptions="Center"/>
@@ -42,7 +46,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkListo"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsSmart}"/>
 
                     <Label Text="Listo"
                            VerticalOptions="Center"/>
@@ -50,7 +55,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkRaro"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsRare}"/>
 
                     <Label Text="Raro"
                            VerticalOptions="Center"/>
@@ -62,7 +68,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkFeo"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsUgly}"/>
 
                     <Label Text="Feo"
                            VerticalOptions="Center"/>
@@ -70,7 +77,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkExtravagante"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsExtravagant}"/>
 
                     <Label Text="Extravagante"
                            VerticalOptions="Center"/>
@@ -78,7 +86,8 @@
 
                 <HorizontalStackLayout>
                     <CheckBox x:Name="chkGrande"
-                              VerticalOptions="Center"/>
+                              VerticalOptions="Center"
+                              IsChecked="{Binding persona.IsBig}"/>
 
                     <Label Text="Grande"
                            VerticalOptions="Center"/>

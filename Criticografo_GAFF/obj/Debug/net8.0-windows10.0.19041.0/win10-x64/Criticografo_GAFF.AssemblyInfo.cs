@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Criticografo_GAFF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+01d1d8addd3d3b746cd1a8c14e847730032afe68")]
 [assembly: System.Reflection.AssemblyProductAttribute("Criticografo_GAFF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Criticografo_GAFF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
